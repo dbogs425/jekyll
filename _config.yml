@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Dbogs425 Blog
+name: Daniel Bolognino
 
 # Short bio or description (displayed in the header)
-description: I'm a DevOps Engineer / Infosec Guy -- Welcome to my TED talk
+description: DevOps Engineer / Infosec. Welcome to my TED talk.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwijhY-K2Y3dAhUJUt8KHVT3Dn8Qjhx6BAgBEAM&url=https%3A%2F%2Fgithub.com%2Fdbogs425&psig=AOvVaw1GTmxakGH6E8oo5LK0fL4u&ust=1535475219261706
-
+avatar: github.com/dbogs425.png
 #
 # Flags below are optional
 #
